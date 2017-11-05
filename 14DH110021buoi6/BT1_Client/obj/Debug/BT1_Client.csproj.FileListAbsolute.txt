@@ -1,0 +1,2 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6\BT1_Client\bin\Debug\BT1_Client.exe.config
+E:\NetWork\LTMang\BTLapTrinhMang6-master\14DH110021buoi6\BT1_Client\bin\Debug\BT1_Client.exe.config

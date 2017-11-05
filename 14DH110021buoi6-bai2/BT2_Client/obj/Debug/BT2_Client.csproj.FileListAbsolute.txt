@@ -1,0 +1,5 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Client\bin\Debug\BT2_Client.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Client\bin\Debug\BT2_Client.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Client\bin\Debug\BT2_Client.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Client\obj\Debug\BT2_Client.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LeTrinhHoangAnhTien_buoi6(b2)\BT2_Client\obj\Debug\BT2_Client.pdb
